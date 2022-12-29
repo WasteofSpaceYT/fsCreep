@@ -1,0 +1,5 @@
+/workspaces/fsCreep/obj/Debug/.net48/fsCreep.csproj.SuggestedBindingRedirects.cache
+/workspaces/fsCreep/obj/Debug/.net48/fsCreep.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/fsCreep/obj/Debug/.net48/fsCreep.AssemblyInfoInputs.cache
+/workspaces/fsCreep/obj/Debug/.net48/fsCreep.AssemblyInfo.cs
+/workspaces/fsCreep/obj/Debug/.net48/fsCreep.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+/workspaces/fsCreep/bin/Debug/net7.0/fsCreep
+/workspaces/fsCreep/bin/Debug/net7.0/fsCreep.deps.json
+/workspaces/fsCreep/bin/Debug/net7.0/fsCreep.runtimeconfig.json
+/workspaces/fsCreep/bin/Debug/net7.0/fsCreep.dll
+/workspaces/fsCreep/bin/Debug/net7.0/fsCreep.pdb
+/workspaces/fsCreep/obj/Debug/net7.0/fsCreep.csproj.AssemblyReference.cache
+/workspaces/fsCreep/obj/Debug/net7.0/fsCreep.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/fsCreep/obj/Debug/net7.0/fsCreep.AssemblyInfoInputs.cache
+/workspaces/fsCreep/obj/Debug/net7.0/fsCreep.AssemblyInfo.cs
+/workspaces/fsCreep/obj/Debug/net7.0/fsCreep.csproj.CoreCompileInputs.cache
+/workspaces/fsCreep/obj/Debug/net7.0/fsCreep.dll
+/workspaces/fsCreep/obj/Debug/net7.0/refint/fsCreep.dll
+/workspaces/fsCreep/obj/Debug/net7.0/fsCreep.pdb
+/workspaces/fsCreep/obj/Debug/net7.0/fsCreep.genruntimeconfig.cache
+/workspaces/fsCreep/obj/Debug/net7.0/ref/fsCreep.dll
